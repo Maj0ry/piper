@@ -102,3 +102,8 @@ Jawris.exe
 JawrisInstaller.exe
 JawrisSystemInstaller_Autostart.exe
 jawris_gui_control_hub_v3.exe
+src/python_run/piper/config.py
+src/cpp/wavfile.hpp
+src/cpp/wavfile.hpp
+.vscode/settings.json
+src/python_run/piper/config.py
