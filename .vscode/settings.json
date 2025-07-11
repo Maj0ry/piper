@@ -8,5 +8,6 @@
         "pycache",
         "sqlitedb",
         "webp"
-    ]
+    ],
+    "C_Cpp.errorSquiggles": "disabled"
 }
